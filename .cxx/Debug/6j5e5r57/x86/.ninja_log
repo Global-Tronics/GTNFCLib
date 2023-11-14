@@ -1,0 +1,4 @@
+# ninja log v5
+0	11	0	clean	f52f48d42b00cda9
+0	493	7215170763017026	CMakeFiles/WMNFCLib.dir/D_/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/cpp_back/WMNFCLib.cpp.o	cac2aa7c2549db8c
+495	576	7215170763793647	D:/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/build/intermediates/cxx/Debug/6j5e5r57/obj/x86/libWMNFCLib.so	28fa7b69f31e578b

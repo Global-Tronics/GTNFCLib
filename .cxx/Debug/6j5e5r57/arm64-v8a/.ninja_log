@@ -1,0 +1,7 @@
+# ninja log v5
+3	1042	7215166633642869	CMakeFiles/WMNFCLib.dir/WMNFCLib.cpp.o	8235e2af0c475360
+1043	1280	7215166635960059	D:/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/build/intermediates/cxx/Debug/6j5e5r57/obj/arm64-v8a/libWMNFCLib.so	76e96cd4b9561fde
+0	9	0	clean	f52f48d42b00cda9
+0	115	7215170732280943	build.ninja	8488218aa2b92ade
+0	909	7215170745187134	CMakeFiles/WMNFCLib.dir/D_/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/cpp_back/WMNFCLib.cpp.o	a726cf4adb82d2d
+909	1065	7215170746653213	D:/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/build/intermediates/cxx/Debug/6j5e5r57/obj/arm64-v8a/libWMNFCLib.so	f87b9e3aa87c9a4c

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/.cxx/Debug/6j5e5r57/armeabi-v7a",
+  "command": "D:\\Andorid\\SDK\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi24 --sysroot=D:/Andorid/SDK/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWMNFCLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\WMNFCLib.dir\\D_\\T2020G\\Java\\GTNFCTestTool\\gtnfctesttool\\WMNFCLib\\cpp_back\\WMNFCLib.cpp.o -c \"D:\\T2020G\\Java\\GTNFCTestTool\\gtnfctesttool\\WMNFCLib\\cpp back\\WMNFCLib.cpp\"",
+  "file": "D:\\T2020G\\Java\\GTNFCTestTool\\gtnfctesttool\\WMNFCLib\\cpp back\\WMNFCLib.cpp"
+}
+]
