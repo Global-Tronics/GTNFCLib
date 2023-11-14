@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\T2020G\Java\GTNFCTestTool\gtnfctesttool\WMNFCLib\.cxx\Debug\6a9113e5\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/WMNFCLib.dir/D_/T2020G/Java/GTNFCTestTool/gtnfctesttool/WMNFCLib/cpp_back/WMNFCLib.cpp.o
+[2/2] Linking CXX shared library D:\T2020G\Java\GTNFCTestTool\gtnfctesttool\WMNFCLib\build\intermediates\cxx\Debug\6a9113e5\obj\arm64-v8a\libWMNFCLib.so
